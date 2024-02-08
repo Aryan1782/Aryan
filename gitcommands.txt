@@ -12,4 +12,12 @@ git config --global user.email "you@example.com"s
   git log (who did what changes when )
   git diff (know how the files is changes)
 
-  some changes
+
+git ls-files(files avalible in staging area)
+git rm --cached filename(you want to keep the file in our hard disk but you dont want git to track a particular file anymore)
+git rm filename(remove file from staging area and local direcctory)
+
+BRANCH
+git branch (return all branch)
+git branch second-branch(creat another branch whose name is second branch)
+git checkout second-branch(switch to second branch)
