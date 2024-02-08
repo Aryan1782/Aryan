@@ -12,6 +12,9 @@ git config --global user.email "you@example.com"s
   git log (who did what changes when )
   git diff (know how the files is changes)
 
+  git checkout -b third-branch(creat and switch to third branch)
+  
+
 
 git ls-files(files avalible in staging area)
 git rm --cached filename(you want to keep the file in our hard disk but you dont want git to track a particular file anymore)
