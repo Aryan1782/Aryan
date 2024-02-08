@@ -6,5 +6,5 @@ git add .   (all file will will add in staging area)
 
 git commit -m "new file added"
 
-git config --globaluser.email "your email.com"
-git config --glibalusername "your name"
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
