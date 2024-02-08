@@ -1,0 +1,10 @@
+git basic commands
+git status 
+git init (init a new respository in local directory)
+git add filename (add file to staging area)
+git add .   (all file will will add in staging area)
+
+git commit -m "new file added"
+
+git config --globaluser.email "your email.com"
+git config --glibalusername "your name"
