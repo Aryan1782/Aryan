@@ -6,5 +6,10 @@ git add .   (all file will will add in staging area)
 
 git commit -m "new file added"
 
-git config --global user.email "you@example.com"
+git config --global user.email "you@example.com"s
   git config --global user.name "Your Name"
+
+  git log (who did what changes when )
+  git diff (know how the files is changes)
+
+  some changes
