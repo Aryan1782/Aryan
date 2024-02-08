@@ -34,5 +34,7 @@ git push -u origin master(push changes to remote respository)
 
 
 
-
+git add .
+git commit -m"master"
+git push -u origin *master*(push changes to remote respository)
 
