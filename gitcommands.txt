@@ -13,7 +13,11 @@ git config --global user.email "you@example.com"s
   git diff (know how the files is changes)
 
   git checkout -b third-branch(creat and switch to third branch)
-  
+
+
+  git remote and and origin url(connect local repositorym to remote respository)
+
+
 
 
 git ls-files(files avalible in staging area)
@@ -24,3 +28,11 @@ BRANCH
 git branch (return all branch)
 git branch second-branch(creat another branch whose name is second branch)
 git checkout second-branch(switch to second branch)
+
+
+git push -u origin master(push changes to remote respository)
+
+
+
+
+
